@@ -14,9 +14,3 @@ SecureAuth: Secure User Management
 3. HTML
 4. CSS
 
- Password : (contact me https://www.instagram.com/deepcode2024?igsh=MWlzbW1mOXIzM2VvNg== )
-
-## Authors
-
-[deep khatri ](https://github.com/deepkhatri)
-
